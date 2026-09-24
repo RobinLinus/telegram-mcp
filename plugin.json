@@ -1,0 +1,6 @@
+{
+  "name": "telegram-mcp",
+  "version": "0.1.0",
+  "description": "Full-schema Telegram user API over local MCP.",
+  "author": {"name": "Robin Linus"}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "telegram-mcp",
+  "version": "0.1.0",
+  "description": "Full-schema Telegram user API over local MCP.",
+  "author": {"name": "Robin Linus"},
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Telegram",
+    "shortDescription": "Use Telegram as your own account",
+    "longDescription": "Local MTProto tools with API discovery, arbitrary user RPCs, media transfer, and persistent login.",
+    "developerName": "Robin Linus",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": ["Show my recent Telegram conversations."]
+  }
+}
