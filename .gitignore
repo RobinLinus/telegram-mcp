@@ -1,0 +1,17 @@
+.venv/
+.local/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+*.session*
+.env
+.env.*
+!.env.example
+credentials.json
+config.json
+*.pem
+*.key
+*.sqlite*
+*.db
+.DS_Store
